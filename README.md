@@ -10,7 +10,8 @@
 
 📖 I consider myself self-taught because I find independent learning to be an exciting way to acquire new knowledge and skills, exploring my interests at my own pace and delving into areas that truly inspire me.
 
-📺 Programming is the art of turning imagination into reality through the language of machines, a creative dance where each line of code is a step towards the realization of ideas and solutions.
+📺  Programming is the art of turning imagination into reality through the language of machines, a creative dance where each line of code is a step towards the realization of ideas and solutions.
+
 ---
 <h1 align="center">CERTIFICATES</h1>
 <div style="display: flex; justify-content: center;">
